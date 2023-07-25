@@ -9,4 +9,5 @@ package com.tplink.test;
  * @since 2023/7/25 23:13
  */
 public class TestClass2 {
+    public void Test(){}
 }
