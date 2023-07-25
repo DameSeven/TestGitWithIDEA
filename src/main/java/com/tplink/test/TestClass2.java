@@ -16,5 +16,6 @@ public class TestClass2 {
         System.out.println("hot-fix");
         System.out.println("hot-fix");
         System.out.println("push");
+        System.out.println("push2");
     }
 }
