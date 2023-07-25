@@ -11,5 +11,7 @@ package com.tplink.test;
 public class TestClass2 {
     private int age;
     private int age2;
-    public void Test(){}
+    public void Test(){
+        System.out.println("hot-fix");
+    }
 }
