@@ -13,5 +13,6 @@ public class TestClass2 {
     private int age2;
     public void Test(){
         System.out.println("hot-fix");
+        System.out.println("hot-fix");
     }
 }
